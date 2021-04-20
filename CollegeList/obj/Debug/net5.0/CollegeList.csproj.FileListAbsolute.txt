@@ -1,0 +1,16 @@
+C:\CodebitsAcademy\LabTasks\LabTask17\CollegeList\bin\Debug\net5.0\CollegeList.exe
+C:\CodebitsAcademy\LabTasks\LabTask17\CollegeList\bin\Debug\net5.0\CollegeList.deps.json
+C:\CodebitsAcademy\LabTasks\LabTask17\CollegeList\bin\Debug\net5.0\CollegeList.runtimeconfig.json
+C:\CodebitsAcademy\LabTasks\LabTask17\CollegeList\bin\Debug\net5.0\CollegeList.runtimeconfig.dev.json
+C:\CodebitsAcademy\LabTasks\LabTask17\CollegeList\bin\Debug\net5.0\CollegeList.dll
+C:\CodebitsAcademy\LabTasks\LabTask17\CollegeList\bin\Debug\net5.0\ref\CollegeList.dll
+C:\CodebitsAcademy\LabTasks\LabTask17\CollegeList\bin\Debug\net5.0\CollegeList.pdb
+C:\CodebitsAcademy\LabTasks\LabTask17\CollegeList\obj\Debug\net5.0\CollegeList.csprojAssemblyReference.cache
+C:\CodebitsAcademy\LabTasks\LabTask17\CollegeList\obj\Debug\net5.0\CollegeList.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodebitsAcademy\LabTasks\LabTask17\CollegeList\obj\Debug\net5.0\CollegeList.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\LabTasks\LabTask17\CollegeList\obj\Debug\net5.0\CollegeList.AssemblyInfo.cs
+C:\CodebitsAcademy\LabTasks\LabTask17\CollegeList\obj\Debug\net5.0\CollegeList.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\LabTasks\LabTask17\CollegeList\obj\Debug\net5.0\CollegeList.dll
+C:\CodebitsAcademy\LabTasks\LabTask17\CollegeList\obj\Debug\net5.0\ref\CollegeList.dll
+C:\CodebitsAcademy\LabTasks\LabTask17\CollegeList\obj\Debug\net5.0\CollegeList.pdb
+C:\CodebitsAcademy\LabTasks\LabTask17\CollegeList\obj\Debug\net5.0\CollegeList.genruntimeconfig.cache

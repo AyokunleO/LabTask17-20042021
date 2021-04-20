@@ -1,0 +1,16 @@
+C:\CodebitsAcademy\LabTasks\LabTask17\SequenceOfInt\obj\Debug\net5.0\SequenceOfInt.csprojAssemblyReference.cache
+C:\CodebitsAcademy\LabTasks\LabTask17\SequenceOfInt\obj\Debug\net5.0\SequenceOfInt.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodebitsAcademy\LabTasks\LabTask17\SequenceOfInt\obj\Debug\net5.0\SequenceOfInt.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\LabTasks\LabTask17\SequenceOfInt\obj\Debug\net5.0\SequenceOfInt.AssemblyInfo.cs
+C:\CodebitsAcademy\LabTasks\LabTask17\SequenceOfInt\obj\Debug\net5.0\SequenceOfInt.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\LabTasks\LabTask17\SequenceOfInt\bin\Debug\net5.0\SequenceOfInt.exe
+C:\CodebitsAcademy\LabTasks\LabTask17\SequenceOfInt\bin\Debug\net5.0\SequenceOfInt.deps.json
+C:\CodebitsAcademy\LabTasks\LabTask17\SequenceOfInt\bin\Debug\net5.0\SequenceOfInt.runtimeconfig.json
+C:\CodebitsAcademy\LabTasks\LabTask17\SequenceOfInt\bin\Debug\net5.0\SequenceOfInt.runtimeconfig.dev.json
+C:\CodebitsAcademy\LabTasks\LabTask17\SequenceOfInt\bin\Debug\net5.0\SequenceOfInt.dll
+C:\CodebitsAcademy\LabTasks\LabTask17\SequenceOfInt\bin\Debug\net5.0\ref\SequenceOfInt.dll
+C:\CodebitsAcademy\LabTasks\LabTask17\SequenceOfInt\bin\Debug\net5.0\SequenceOfInt.pdb
+C:\CodebitsAcademy\LabTasks\LabTask17\SequenceOfInt\obj\Debug\net5.0\SequenceOfInt.dll
+C:\CodebitsAcademy\LabTasks\LabTask17\SequenceOfInt\obj\Debug\net5.0\ref\SequenceOfInt.dll
+C:\CodebitsAcademy\LabTasks\LabTask17\SequenceOfInt\obj\Debug\net5.0\SequenceOfInt.pdb
+C:\CodebitsAcademy\LabTasks\LabTask17\SequenceOfInt\obj\Debug\net5.0\SequenceOfInt.genruntimeconfig.cache
